@@ -1,4 +1,4 @@
 class ChargeurNiveaux{
 	
-	static void init()
+	//static void init()
 }
